@@ -12,7 +12,7 @@ The Thayer Laboratory at Wesleyan University applies computational molecular bio
 ## Projects
 
 - [SAWNERGY](https://github.com/Yehor-Mishchyriak/SAWNERGY)
-- [Knowledge Base](https://github.com/ThayerLab/Knowledge-Base)
+- [Knowledge Base]([https://github.com/ThayerLab/Knowledge-Base](https://github.com/ThayerLab-Wesleyan-University/Knowledge-Base))
 
 ## Publications
 <TO BE FILLED OUT>
